@@ -60,6 +60,7 @@
 
 @synthesize income, housing_interest, investment, infra_investment, insurance_premiums, final_tax;
 
+int getTax(int taxable_income);
 
 - (IBAction) calculate_tax{
     NSString* income_full = income.text;
@@ -76,7 +77,7 @@
     NSNumber* housing_num = [f numberFromString:housing];
     NSNumber* premium_num = [f numberFromString:premium];
     NSLog(@"Deductions are %@, %@, %@, %@", inv_num, infra_inv_num, housing_num, premium_num);    
-    
+    [f release];
     int income_i = [income_num intValue];
     int inv_i = [inv_num intValue];
     int infra_inv_i = [infra_inv_num intValue];
