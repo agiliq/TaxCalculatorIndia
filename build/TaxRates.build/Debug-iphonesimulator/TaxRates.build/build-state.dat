@@ -1,0 +1,258 @@
+TTaxRates
+v7
+r0
+t318338358.911403
+cCheck dependencies
+cProcessInfoPlistFile /Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app/Info.plist TaxRates-Info.plist
+cCompileXIB /Users/shabda/Documents/TaxRates/MainWindow.xib
+cCompileXIB /Users/shabda/Documents/TaxRates/TaxRatesViewController.xib
+cProcessPCH /var/folders/P-/P-L5MgvuFVKPvDEYSmBcOE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaxRates_Prefix-agsklrarzguajdarvjvdfyqygcup/TaxRates_Prefix.pch.gch TaxRates_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/Objects-normal/i386/main.o /Users/shabda/Documents/TaxRates/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/Objects-normal/i386/TaxRatesAppDelegate.o /Users/shabda/Documents/TaxRates/Classes/TaxRatesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/Objects-normal/i386/TaxRatesViewController.o /Users/shabda/Documents/TaxRates/Classes/TaxRatesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app/TaxRates normal i386
+cGenerateDSYMFile /Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app.dSYM /Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app/TaxRates
+cTouch /Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/shabda/Documents/TaxRates/Classes/TaxRatesAppDelegate.h
+c000000004D4852F900000000000001DA
+t1296585465
+s474
+i<UIKit/UIKit.h>
+
+N/Users/shabda/Documents/TaxRates/Classes/TaxRatesAppDelegate.m
+c000000004D4852F90000000000000A8F
+t1296585465
+s2703
+i"TaxRatesAppDelegate.h"
+i"TaxRatesViewController.h"
+
+N/Users/shabda/Documents/TaxRates/Classes/TaxRatesViewController.h
+c000000004D493D2D000000000000036D
+t1296645421
+s877
+i<UIKit/UIKit.h>
+
+N/Users/shabda/Documents/TaxRates/Classes/TaxRatesViewController.m
+c000000004D493DAC0000000000000F6F
+t1296645548
+s3951
+i"TaxRatesViewController.h"
+
+N/Users/shabda/Documents/TaxRates/MainWindow.xib
+c000000004D4852F90000000000004E35
+t1296585465
+s20021
+
+N/Users/shabda/Documents/TaxRates/TaxRatesViewController.xib
+c000000004D493CFF000000000000A67D
+t1296645375
+s42621
+
+N/Users/shabda/Documents/TaxRates/TaxRates_Prefix.pch
+c000000004D4852F900000000000000B9
+t1296585465
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app
+t1296645553
+s238
+
+N/Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app.dSYM
+t1296645553
+s102
+
+N/Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app/Info.plist
+t1296585469
+s595
+
+N/Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app/MainWindow.nib
+t1296585470
+s1125
+
+N/Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app/PkgInfo
+t1296585469
+s8
+
+N/Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app/TaxRates
+t1296645553
+s24276
+
+N/Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app/TaxRatesViewController.nib
+t1296645439
+s3970
+
+N/Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/Objects-normal/i386/TaxRates.LinkFileList
+c000000004D4852FD0000000000000183
+t1296585469
+s387
+
+N/Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/Objects-normal/i386/TaxRatesAppDelegate.o
+t1296645439
+s51124
+
+N/Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/Objects-normal/i386/TaxRatesViewController.o
+t1296645552
+s52876
+
+N/Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/Objects-normal/i386/main.o
+t1296585471
+s6292
+
+N/Users/shabda/Documents/TaxRates/main.m
+c000000004D4852F9000000000000015F
+t1296585465
+s351
+i<UIKit/UIKit.h>
+
+N/var/folders/P-/P-L5MgvuFVKPvDEYSmBcOE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaxRates_Prefix-agsklrarzguajdarvjvdfyqygcup/TaxRates_Prefix.pch.gch
+t1296585471
+s15453392
+
+NTaxRates-Info.plist
+c000000004D4852F9000000000000038D
+t1296585465
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318338358#318338359#0(0"0(0#1#0"8614733216#0"0#
+
+CCompileC build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/Objects-normal/i386/TaxRatesAppDelegate.o /Users/shabda/Documents/TaxRates/Classes/TaxRatesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318338239.302118
+e318338239.418974
+r1
+xCompileC
+xbuild/TaxRates.build/Debug-iphonesimulator/TaxRates.build/Objects-normal/i386/TaxRatesAppDelegate.o
+x/Users/shabda/Documents/TaxRates/Classes/TaxRatesAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/shabda/Documents/TaxRates/Classes/TaxRatesAppDelegate.m318338239#318338239#0(0"0(0#0#62"/Users/shabda/Documents/TaxRates/Classes/TaxRatesAppDelegate.m8617354016#1906"    cd /Users/shabda/Documents/TaxRates    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/TaxRates-generated-files.hmap -I/Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/TaxRates-own-target-headers.hmap -I/Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/TaxRates-all-target-headers.hmap -iquote /Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/TaxRates-project-headers.hmap -F/Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator -I/Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/include -I/Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/DerivedSources/i386 -I/Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/DerivedSources -include /var/folders/P-/P-L5MgvuFVKPvDEYSmBcOE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaxRates_Prefix-agsklrarzguajdarvjvdfyqygcup/TaxRates_Prefix.pch -c /Users/shabda/Documents/TaxRates/Classes/TaxRatesAppDelegate.m -o /Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/Objects-normal/i386/TaxRatesAppDelegate.o0#
+
+CCompileC build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/Objects-normal/i386/TaxRatesViewController.o /Users/shabda/Documents/TaxRates/Classes/TaxRatesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318338352.783450
+e318338352.997776
+r1
+xCompileC
+xbuild/TaxRates.build/Debug-iphonesimulator/TaxRates.build/Objects-normal/i386/TaxRatesViewController.o
+x/Users/shabda/Documents/TaxRates/Classes/TaxRatesViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/shabda/Documents/TaxRates/Classes/TaxRatesViewController.m: In function '-[TaxRatesViewController calculate_tax]':
+o/Users/shabda/Documents/TaxRates/Classes/TaxRatesViewController.m:95: warning: implicit declaration of function 'getTax'
+lSLF07#2@73"Compile /Users/shabda/Documents/TaxRates/Classes/TaxRatesViewController.m318338352#318338352#0(243"/Users/shabda/Documents/TaxRates/Classes/TaxRatesViewController.m: In function '-[TaxRatesViewController calculate_tax]':/Users/shabda/Documents/TaxRates/Classes/TaxRatesViewController.m:95: warning: implicit declaration of function 'getTax'1(22@41"Implicit declaration of function 'getTax'318338352#122#121#0(6@65"/Users/shabda/Documents/TaxRates/Classes/TaxRatesViewController.m318338348#95#0#95#0#36"implicit declaration of function '*'0(0#0#65"/Users/shabda/Documents/TaxRates/Classes/TaxRatesViewController.m8614698816#1912"    cd /Users/shabda/Documents/TaxRates    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/TaxRates-generated-files.hmap -I/Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/TaxRates-own-target-headers.hmap -I/Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/TaxRates-all-target-headers.hmap -iquote /Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/TaxRates-project-headers.hmap -F/Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator -I/Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/include -I/Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/DerivedSources/i386 -I/Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/DerivedSources -include /var/folders/P-/P-L5MgvuFVKPvDEYSmBcOE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaxRates_Prefix-agsklrarzguajdarvjvdfyqygcup/TaxRates_Prefix.pch -c /Users/shabda/Documents/TaxRates/Classes/TaxRatesViewController.m -o /Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/Objects-normal/i386/TaxRatesViewController.o0#
+
+CCompileC build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/Objects-normal/i386/main.o /Users/shabda/Documents/TaxRates/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318278271.548528
+e318278271.678133
+r1
+xCompileC
+xbuild/TaxRates.build/Debug-iphonesimulator/TaxRates.build/Objects-normal/i386/main.o
+x/Users/shabda/Documents/TaxRates/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/shabda/Documents/TaxRates/main.m318278271#318278271#0(0"0(0#0#39"/Users/shabda/Documents/TaxRates/main.m8620397696#1868"    cd /Users/shabda/Documents/TaxRates    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/TaxRates-generated-files.hmap -I/Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/TaxRates-own-target-headers.hmap -I/Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/TaxRates-all-target-headers.hmap -iquote /Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/TaxRates-project-headers.hmap -F/Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator -I/Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/include -I/Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/DerivedSources/i386 -I/Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/DerivedSources -include /var/folders/P-/P-L5MgvuFVKPvDEYSmBcOE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaxRates_Prefix-agsklrarzguajdarvjvdfyqygcup/TaxRates_Prefix.pch -c /Users/shabda/Documents/TaxRates/main.m -o /Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/shabda/Documents/TaxRates/MainWindow.xib
+s318278269.554691
+e318278270.083387
+r1
+xCompileXIB
+x/Users/shabda/Documents/TaxRates/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib318278269#318278270#0(0"0(0#0#47"/Users/shabda/Documents/TaxRates/MainWindow.xib8617156640#553"    cd /Users/shabda/Documents/TaxRates    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app/MainWindow.nib /Users/shabda/Documents/TaxRates/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/shabda/Documents/TaxRates/TaxRatesViewController.xib
+s318338238.183257
+e318338239.301829
+r1
+xCompileXIB
+x/Users/shabda/Documents/TaxRates/TaxRatesViewController.xib
+lSLF07#2@37"CompileXIB TaxRatesViewController.xib318338238#318338239#0(0"0(0#0#59"/Users/shabda/Documents/TaxRates/TaxRatesViewController.xib8611330432#577"    cd /Users/shabda/Documents/TaxRates    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app/TaxRatesViewController.nib /Users/shabda/Documents/TaxRates/TaxRatesViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app.dSYM /Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app/TaxRates
+s318338353.041334
+e318338353.058537
+r1
+xGenerateDSYMFile
+x/Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app.dSYM
+x/Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app/TaxRates
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/TaxRates.app.dSYM build/Debug-iphonesimulator/TaxRates.app/TaxRates318338353#318338353#0(0"0(0#0#82"/Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app/TaxRates8612461280#368"    cd /Users/shabda/Documents/TaxRates    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app/TaxRates -o /Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app.dSYM0#
+
+CLd /Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app/TaxRates normal i386
+s318338352.997866
+e318338353.041241
+r1
+xLd
+x/Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app/TaxRates
+xnormal
+xi386
+lSLF07#2@87"Link /Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app/TaxRates318338352#318338353#0(0"0(0#0#0"8616508576#875"    cd /Users/shabda/Documents/TaxRates    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator -F/Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator -filelist /Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/Objects-normal/i386/TaxRates.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app/TaxRates0#
+
+CProcessInfoPlistFile /Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app/Info.plist TaxRates-Info.plist
+s318278269.551663
+e318278269.554615
+r1
+xProcessInfoPlistFile
+x/Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app/Info.plist
+xTaxRates-Info.plist
+lSLF07#2@27"Process TaxRates-Info.plist318278269#318278269#0(0"0(0#0#52"/Users/shabda/Documents/TaxRates/TaxRates-Info.plist32933040433463412#464"    cd /Users/shabda/Documents/TaxRates    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TaxRates-Info.plist -genpkginfo /Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app/Info.plist0#
+
+CProcessPCH /var/folders/P-/P-L5MgvuFVKPvDEYSmBcOE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaxRates_Prefix-agsklrarzguajdarvjvdfyqygcup/TaxRates_Prefix.pch.gch TaxRates_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s318278270.083515
+e318278271.548297
+r1
+xProcessPCH
+x/var/folders/P-/P-L5MgvuFVKPvDEYSmBcOE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaxRates_Prefix-agsklrarzguajdarvjvdfyqygcup/TaxRates_Prefix.pch.gch
+xTaxRates_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile TaxRates_Prefix.pch318278270#318278271#0(0"0(0#0#52"/Users/shabda/Documents/TaxRates/TaxRates_Prefix.pch8620311328#1765"    cd /Users/shabda/Documents/TaxRates    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/TaxRates-generated-files.hmap -I/Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/TaxRates-own-target-headers.hmap -I/Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/TaxRates-all-target-headers.hmap -iquote /Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/TaxRates-project-headers.hmap -F/Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator -I/Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/include -I/Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/DerivedSources/i386 -I/Users/shabda/Documents/TaxRates/build/TaxRates.build/Debug-iphonesimulator/TaxRates.build/DerivedSources -c /Users/shabda/Documents/TaxRates/TaxRates_Prefix.pch -o /var/folders/P-/P-L5MgvuFVKPvDEYSmBcOE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TaxRates_Prefix-agsklrarzguajdarvjvdfyqygcup/TaxRates_Prefix.pch.gch0#
+
+CTouch /Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app
+s318338353.058623
+e318338353.081058
+r1
+xTouch
+x/Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app
+lSLF07#2@79"Touch /Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app318338353#318338353#0(0"0(0#0#0"8611208896#267"    cd /Users/shabda/Documents/TaxRates    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/shabda/Documents/TaxRates/build/Debug-iphonesimulator/TaxRates.app0#
+

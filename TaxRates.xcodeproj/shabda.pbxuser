@@ -1,0 +1,1191 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* TaxRates */ = {
+		activeExec = 0;
+		executables = (
+			421AF90F12F88A7900F76B40 /* TaxRates */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* TaxRatesViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 567}}";
+			sepNavSelRange = "{839, 0}";
+			sepNavVisRange = "{0, 877}";
+			sepNavWindowFrame = "{{-8, -46}, {750, 714}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 1755}}";
+			sepNavSelRange = "{2592, 0}";
+			sepNavVisRange = "{1308, 1864}";
+			sepNavWindowFrame = "{{15, 63}, {750, 714}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 421AF90F12F88A7900F76B40 /* TaxRates */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TaxRates */;
+		codeSenseManager = 421AF91E12F88A7F00F76B40 /* Code sense */;
+		executables = (
+			421AF90F12F88A7900F76B40 /* TaxRates */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 318333630;
+			PBXWorkspaceStateSaveDate = 318333630;
+		};
+		perUserProjectItems = {
+			421AF96812F91EAD00F76B40 = 421AF96812F91EAD00F76B40 /* PBXTextBookmark */;
+			421AF97B12F9211F00F76B40 = 421AF97B12F9211F00F76B40 /* PBXTextBookmark */;
+			421AF98F12F9218500F76B40 = 421AF98F12F9218500F76B40 /* PBXTextBookmark */;
+			421AF99012F9218500F76B40 = 421AF99012F9218500F76B40 /* PBXTextBookmark */;
+			421AF9CB12F9281900F76B40 = 421AF9CB12F9281900F76B40 /* PBXTextBookmark */;
+			421AF9CD12F9281900F76B40 = 421AF9CD12F9281900F76B40 /* PBXTextBookmark */;
+			421AF9D112F93CE200F76B40 = 421AF9D112F93CE200F76B40 /* PBXTextBookmark */;
+			421AF9D412F93CE200F76B40 = 421AF9D412F93CE200F76B40 /* PBXBookmark */;
+			421AF9D512F93CE200F76B40 = 421AF9D512F93CE200F76B40 /* PBXTextBookmark */;
+			421AF9D612F93CE200F76B40 = 421AF9D612F93CE200F76B40 /* PBXTextBookmark */;
+			421AF9D712F93CE200F76B40 = 421AF9D712F93CE200F76B40 /* PBXTextBookmark */;
+			4299FE8B12F962C10097A11F /* PBXTextBookmark */ = 4299FE8B12F962C10097A11F /* PBXTextBookmark */;
+			4299FE8E12F962C10097A11F /* PBXTextBookmark */ = 4299FE8E12F962C10097A11F /* PBXTextBookmark */;
+			4299FE8F12F962C10097A11F /* PBXTextBookmark */ = 4299FE8F12F962C10097A11F /* PBXTextBookmark */;
+			4299FE9012F962C10097A11F /* PBXTextBookmark */ = 4299FE9012F962C10097A11F /* PBXTextBookmark */;
+			4299FE9212F963C80097A11F /* PBXTextBookmark */ = 4299FE9212F963C80097A11F /* PBXTextBookmark */;
+			4299FE9312F963C80097A11F /* PBXTextBookmark */ = 4299FE9312F963C80097A11F /* PBXTextBookmark */;
+			4299FE9412F963C80097A11F /* PBXTextBookmark */ = 4299FE9412F963C80097A11F /* PBXTextBookmark */;
+			4299FE9512F963C80097A11F /* PBXTextBookmark */ = 4299FE9512F963C80097A11F /* PBXTextBookmark */;
+			4299FE9812F9666A0097A11F /* PBXTextBookmark */ = 4299FE9812F9666A0097A11F /* PBXTextBookmark */;
+			4299FE9912F9666A0097A11F /* PBXTextBookmark */ = 4299FE9912F9666A0097A11F /* PBXTextBookmark */;
+			4299FE9A12F9666A0097A11F /* PBXTextBookmark */ = 4299FE9A12F9666A0097A11F /* PBXTextBookmark */;
+			4299FE9B12F9666A0097A11F /* PBXTextBookmark */ = 4299FE9B12F9666A0097A11F /* PBXTextBookmark */;
+			4299FEA012F966EA0097A11F /* PBXTextBookmark */ = 4299FEA012F966EA0097A11F /* PBXTextBookmark */;
+			4299FEA112F966EA0097A11F /* PBXTextBookmark */ = 4299FEA112F966EA0097A11F /* PBXTextBookmark */;
+			4299FEA212F966EA0097A11F /* PBXTextBookmark */ = 4299FEA212F966EA0097A11F /* PBXTextBookmark */;
+			4299FEA312F966EA0097A11F /* PBXTextBookmark */ = 4299FEA312F966EA0097A11F /* PBXTextBookmark */;
+			4299FEA812F9682D0097A11F /* PBXTextBookmark */ = 4299FEA812F9682D0097A11F /* PBXTextBookmark */;
+			4299FEA912F9682D0097A11F /* PBXTextBookmark */ = 4299FEA912F9682D0097A11F /* PBXTextBookmark */;
+			4299FEAA12F9682D0097A11F /* PBXTextBookmark */ = 4299FEAA12F9682D0097A11F /* PBXTextBookmark */;
+			4299FEAB12F9682D0097A11F /* PBXTextBookmark */ = 4299FEAB12F9682D0097A11F /* PBXTextBookmark */;
+			4299FEAC12F968730097A11F /* PBXTextBookmark */ = 4299FEAC12F968730097A11F /* PBXTextBookmark */;
+			4299FEAD12F968730097A11F /* PBXTextBookmark */ = 4299FEAD12F968730097A11F /* PBXTextBookmark */;
+			4299FEAE12F968730097A11F /* PBXTextBookmark */ = 4299FEAE12F968730097A11F /* PBXTextBookmark */;
+			4299FEAF12F968730097A11F /* PBXTextBookmark */ = 4299FEAF12F968730097A11F /* PBXTextBookmark */;
+			4299FEB012F9694C0097A11F /* PBXTextBookmark */ = 4299FEB012F9694C0097A11F /* PBXTextBookmark */;
+			4299FEB112F9694C0097A11F /* PBXTextBookmark */ = 4299FEB112F9694C0097A11F /* PBXTextBookmark */;
+			4299FEB212F9694C0097A11F /* PBXTextBookmark */ = 4299FEB212F9694C0097A11F /* PBXTextBookmark */;
+			4299FEB312F9694C0097A11F /* PBXTextBookmark */ = 4299FEB312F9694C0097A11F /* PBXTextBookmark */;
+			4299FEBA12F96A440097A11F /* PBXTextBookmark */ = 4299FEBA12F96A440097A11F /* PBXTextBookmark */;
+			4299FEBB12F96A440097A11F /* PBXTextBookmark */ = 4299FEBB12F96A440097A11F /* PBXTextBookmark */;
+			4299FEBC12F96A440097A11F /* PBXTextBookmark */ = 4299FEBC12F96A440097A11F /* PBXTextBookmark */;
+			4299FEBD12F96A440097A11F /* PBXTextBookmark */ = 4299FEBD12F96A440097A11F /* PBXTextBookmark */;
+			4299FEC512F96B5C0097A11F /* PBXTextBookmark */ = 4299FEC512F96B5C0097A11F /* PBXTextBookmark */;
+			4299FEC612F96B5C0097A11F /* PBXTextBookmark */ = 4299FEC612F96B5C0097A11F /* PBXTextBookmark */;
+			4299FEC712F96B5C0097A11F /* PBXTextBookmark */ = 4299FEC712F96B5C0097A11F /* PBXTextBookmark */;
+			4299FEC812F96B5C0097A11F /* PBXTextBookmark */ = 4299FEC812F96B5C0097A11F /* PBXTextBookmark */;
+			4299FECD12F96BD00097A11F /* PBXTextBookmark */ = 4299FECD12F96BD00097A11F /* PBXTextBookmark */;
+			4299FECE12F96BD00097A11F /* PBXTextBookmark */ = 4299FECE12F96BD00097A11F /* PBXTextBookmark */;
+			4299FECF12F96BD00097A11F /* PBXTextBookmark */ = 4299FECF12F96BD00097A11F /* PBXTextBookmark */;
+			4299FED012F96BD00097A11F /* PBXTextBookmark */ = 4299FED012F96BD00097A11F /* PBXTextBookmark */;
+			4299FED112F96C440097A11F /* PBXTextBookmark */ = 4299FED112F96C440097A11F /* PBXTextBookmark */;
+			4299FED212F96C440097A11F /* PBXTextBookmark */ = 4299FED212F96C440097A11F /* PBXTextBookmark */;
+			4299FED312F96C440097A11F /* PBXTextBookmark */ = 4299FED312F96C440097A11F /* PBXTextBookmark */;
+			4299FED412F96C440097A11F /* PBXTextBookmark */ = 4299FED412F96C440097A11F /* PBXTextBookmark */;
+			4299FED712F96CA10097A11F /* PBXTextBookmark */ = 4299FED712F96CA10097A11F /* PBXTextBookmark */;
+			4299FED812F96CA20097A11F /* PBXTextBookmark */ = 4299FED812F96CA20097A11F /* PBXTextBookmark */;
+			4299FED912F96CA20097A11F /* PBXTextBookmark */ = 4299FED912F96CA20097A11F /* PBXTextBookmark */;
+			4299FEDA12F96CA20097A11F /* PBXTextBookmark */ = 4299FEDA12F96CA20097A11F /* PBXTextBookmark */;
+			4299FEDB12F96D040097A11F /* PBXTextBookmark */ = 4299FEDB12F96D040097A11F /* PBXTextBookmark */;
+			4299FEDC12F96D040097A11F /* PBXTextBookmark */ = 4299FEDC12F96D040097A11F /* PBXTextBookmark */;
+			4299FEDD12F96D040097A11F /* PBXTextBookmark */ = 4299FEDD12F96D040097A11F /* PBXTextBookmark */;
+			4299FEDE12F96D040097A11F /* PBXTextBookmark */ = 4299FEDE12F96D040097A11F /* PBXTextBookmark */;
+			4299FEE112F96E7F0097A11F /* PBXTextBookmark */ = 4299FEE112F96E7F0097A11F /* PBXTextBookmark */;
+			4299FEE212F96E7F0097A11F /* PBXTextBookmark */ = 4299FEE212F96E7F0097A11F /* PBXTextBookmark */;
+			4299FEE312F96E7F0097A11F /* PBXTextBookmark */ = 4299FEE312F96E7F0097A11F /* PBXTextBookmark */;
+			4299FEE412F96E7F0097A11F /* PBXTextBookmark */ = 4299FEE412F96E7F0097A11F /* PBXTextBookmark */;
+			4299FEE712F96FE20097A11F /* PBXTextBookmark */ = 4299FEE712F96FE20097A11F /* PBXTextBookmark */;
+			4299FEE812F96FE20097A11F /* PBXTextBookmark */ = 4299FEE812F96FE20097A11F /* PBXTextBookmark */;
+			4299FEE912F96FE20097A11F /* PBXTextBookmark */ = 4299FEE912F96FE20097A11F /* PBXTextBookmark */;
+			4299FEEA12F96FE20097A11F /* PBXTextBookmark */ = 4299FEEA12F96FE20097A11F /* PBXTextBookmark */;
+			4299FEF312F970C30097A11F /* PBXTextBookmark */ = 4299FEF312F970C30097A11F /* PBXTextBookmark */;
+			4299FEF412F970C30097A11F /* PBXTextBookmark */ = 4299FEF412F970C30097A11F /* PBXTextBookmark */;
+			4299FEF512F970C30097A11F /* PBXTextBookmark */ = 4299FEF512F970C30097A11F /* PBXTextBookmark */;
+			4299FEF612F970C30097A11F /* PBXTextBookmark */ = 4299FEF612F970C30097A11F /* PBXTextBookmark */;
+			4299FEFD12F971C10097A11F /* PBXTextBookmark */ = 4299FEFD12F971C10097A11F /* PBXTextBookmark */;
+			4299FEFE12F971C10097A11F /* PBXTextBookmark */ = 4299FEFE12F971C10097A11F /* PBXTextBookmark */;
+			4299FEFF12F971C10097A11F /* PBXTextBookmark */ = 4299FEFF12F971C10097A11F /* PBXTextBookmark */;
+			4299FF0012F971C10097A11F /* PBXTextBookmark */ = 4299FF0012F971C10097A11F /* PBXTextBookmark */;
+			4299FF0412F972650097A11F /* PBXTextBookmark */ = 4299FF0412F972650097A11F /* PBXTextBookmark */;
+			4299FF0512F972650097A11F /* PBXTextBookmark */ = 4299FF0512F972650097A11F /* PBXTextBookmark */;
+			4299FF0612F972650097A11F /* PBXTextBookmark */ = 4299FF0612F972650097A11F /* PBXTextBookmark */;
+			4299FF0712F972650097A11F /* PBXTextBookmark */ = 4299FF0712F972650097A11F /* PBXTextBookmark */;
+			4299FF0C12F9742B0097A11F /* PBXTextBookmark */ = 4299FF0C12F9742B0097A11F /* PBXTextBookmark */;
+			4299FF0D12F9742B0097A11F /* PBXTextBookmark */ = 4299FF0D12F9742B0097A11F /* PBXTextBookmark */;
+			4299FF0E12F9742B0097A11F /* PBXTextBookmark */ = 4299FF0E12F9742B0097A11F /* PBXTextBookmark */;
+			4299FF0F12F9742B0097A11F /* PBXTextBookmark */ = 4299FF0F12F9742B0097A11F /* PBXTextBookmark */;
+			4299FF1012F9742B0097A11F /* PBXTextBookmark */ = 4299FF1012F9742B0097A11F /* PBXTextBookmark */;
+			4299FF1112F9742B0097A11F /* PBXTextBookmark */ = 4299FF1112F9742B0097A11F /* PBXTextBookmark */;
+			4299FF1212F974690097A11F /* PBXTextBookmark */ = 4299FF1212F974690097A11F /* PBXTextBookmark */;
+			4299FF1312F974690097A11F /* PBXTextBookmark */ = 4299FF1312F974690097A11F /* PBXTextBookmark */;
+			4299FF1412F974690097A11F /* PBXTextBookmark */ = 4299FF1412F974690097A11F /* PBXTextBookmark */;
+			4299FF1512F974690097A11F /* PBXTextBookmark */ = 4299FF1512F974690097A11F /* PBXTextBookmark */;
+			4299FF1D12F975370097A11F /* PBXTextBookmark */ = 4299FF1D12F975370097A11F /* PBXTextBookmark */;
+			4299FF1E12F975370097A11F /* PBXTextBookmark */ = 4299FF1E12F975370097A11F /* PBXTextBookmark */;
+			4299FF1F12F975370097A11F /* PBXTextBookmark */ = 4299FF1F12F975370097A11F /* PBXTextBookmark */;
+			4299FF2012F975370097A11F /* PBXTextBookmark */ = 4299FF2012F975370097A11F /* PBXTextBookmark */;
+			4299FF2112F975370097A11F /* PBXTextBookmark */ = 4299FF2112F975370097A11F /* PBXTextBookmark */;
+		};
+		sourceControlManager = 421AF91D12F88A7F00F76B40 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* TaxRates_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 220}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 185}";
+		};
+	};
+	421AF90F12F88A7900F76B40 /* TaxRates */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TaxRates;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	421AF91D12F88A7F00F76B40 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	421AF91E12F88A7F00F76B40 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	421AF96112F91E8400F76B40 /* HelloUserViewController (1).h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = "HelloUserViewController (1).h";
+		path = "/Users/shabda/Downloads/HelloUserViewController (1).h";
+		sourceTree = "<absolute>";
+	};
+	421AF96812F91EAD00F76B40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 421AF96112F91E8400F76B40 /* HelloUserViewController (1).h */;
+		name = "HelloUserViewController (1).h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 436;
+		vrLoc = 790;
+	};
+	421AF97B12F9211F00F76B40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TaxRatesViewController.h */;
+		name = "TaxRatesViewController.h: 14";
+		rLen = 0;
+		rLoc = 346;
+		rType = 0;
+		vrLen = 437;
+		vrLoc = 0;
+	};
+	421AF98F12F9218500F76B40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* TaxRates_Prefix.pch */;
+		name = "TaxRates_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 185;
+		vrLoc = 0;
+	};
+	421AF99012F9218500F76B40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Request for member 'text' in something not a structure or union";
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		rLen = 1;
+		rLoc = 63;
+		rType = 1;
+	};
+	421AF9CB12F9281900F76B40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 75";
+		rLen = 0;
+		rLoc = 3860;
+		rType = 0;
+		vrLen = 1091;
+		vrLoc = 815;
+	};
+	421AF9CD12F9281900F76B40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TaxRatesViewController.h */;
+		name = "TaxRatesViewController.h: 11";
+		rLen = 0;
+		rLoc = 239;
+		rType = 0;
+		vrLen = 610;
+		vrLoc = 0;
+	};
+	421AF9D112F93CE200F76B40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 61";
+		rLen = 0;
+		rLoc = 1515;
+		rType = 0;
+		vrLen = 585;
+		vrLoc = 1333;
+	};
+	421AF9D412F93CE200F76B40 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+	};
+	421AF9D512F93CE200F76B40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 71";
+		rLen = 0;
+		rLoc = 1749;
+		rType = 0;
+		vrLen = 1283;
+		vrLoc = 790;
+	};
+	421AF9D612F93CE200F76B40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 71";
+		rLen = 0;
+		rLoc = 1749;
+		rType = 0;
+		vrLen = 1219;
+		vrLoc = 815;
+	};
+	421AF9D712F93CE200F76B40 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TaxRatesViewController.h */;
+		name = "TaxRatesViewController.h: 26";
+		rLen = 0;
+		rLoc = 789;
+		rType = 0;
+		vrLen = 789;
+		vrLoc = 0;
+	};
+	4299FE8B12F962C10097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 61";
+		rLen = 0;
+		rLoc = 1515;
+		rType = 0;
+		vrLen = 584;
+		vrLoc = 1333;
+	};
+	4299FE8E12F962C10097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 71";
+		rLen = 0;
+		rLoc = 1749;
+		rType = 0;
+		vrLen = 1237;
+		vrLoc = 815;
+	};
+	4299FE8F12F962C10097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 71";
+		rLen = 0;
+		rLoc = 1749;
+		rType = 0;
+		vrLen = 1218;
+		vrLoc = 815;
+	};
+	4299FE9012F962C10097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TaxRatesViewController.h */;
+		name = "TaxRatesViewController.h: 26";
+		rLen = 0;
+		rLoc = 789;
+		rType = 0;
+		vrLen = 789;
+		vrLoc = 0;
+	};
+	4299FE9212F963C80097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 61";
+		rLen = 0;
+		rLoc = 1515;
+		rType = 0;
+		vrLen = 607;
+		vrLoc = 1333;
+	};
+	4299FE9312F963C80097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 76";
+		rLen = 0;
+		rLoc = 3217;
+		rType = 0;
+		vrLen = 1372;
+		vrLoc = 815;
+	};
+	4299FE9412F963C80097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 71";
+		rLen = 0;
+		rLoc = 1749;
+		rType = 0;
+		vrLen = 1277;
+		vrLoc = 815;
+	};
+	4299FE9512F963C80097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TaxRatesViewController.h */;
+		name = "TaxRatesViewController.h: 26";
+		rLen = 0;
+		rLoc = 789;
+		rType = 0;
+		vrLen = 789;
+		vrLoc = 0;
+	};
+	4299FE9812F9666A0097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 61";
+		rLen = 0;
+		rLoc = 1515;
+		rType = 0;
+		vrLen = 607;
+		vrLoc = 1333;
+	};
+	4299FE9912F9666A0097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 80";
+		rLen = 0;
+		rLoc = 3212;
+		rType = 0;
+		vrLen = 1589;
+		vrLoc = 815;
+	};
+	4299FE9A12F9666A0097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 71";
+		rLen = 0;
+		rLoc = 1749;
+		rType = 0;
+		vrLen = 1549;
+		vrLoc = 815;
+	};
+	4299FE9B12F9666A0097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TaxRatesViewController.h */;
+		name = "TaxRatesViewController.h: 26";
+		rLen = 0;
+		rLoc = 789;
+		rType = 0;
+		vrLen = 789;
+		vrLoc = 0;
+	};
+	4299FEA012F966EA0097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 61";
+		rLen = 0;
+		rLoc = 1515;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 1333;
+	};
+	4299FEA112F966EA0097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 78";
+		rLen = 0;
+		rLoc = 3212;
+		rType = 0;
+		vrLen = 1415;
+		vrLoc = 815;
+	};
+	4299FEA212F966EA0097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 68";
+		rLen = 0;
+		rLoc = 1749;
+		rType = 0;
+		vrLen = 1412;
+		vrLoc = 815;
+	};
+	4299FEA312F966EA0097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TaxRatesViewController.h */;
+		name = "TaxRatesViewController.h: 26";
+		rLen = 0;
+		rLoc = 789;
+		rType = 0;
+		vrLen = 789;
+		vrLoc = 0;
+	};
+	4299FEA812F9682D0097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 61";
+		rLen = 0;
+		rLoc = 1515;
+		rType = 0;
+		vrLen = 666;
+		vrLoc = 1333;
+	};
+	4299FEA912F9682D0097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 80";
+		rLen = 0;
+		rLoc = 2392;
+		rType = 0;
+		vrLen = 1471;
+		vrLoc = 815;
+	};
+	4299FEAA12F9682D0097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 68";
+		rLen = 0;
+		rLoc = 1749;
+		rType = 0;
+		vrLen = 1461;
+		vrLoc = 815;
+	};
+	4299FEAB12F9682D0097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TaxRatesViewController.h */;
+		name = "TaxRatesViewController.h: 26";
+		rLen = 0;
+		rLoc = 789;
+		rType = 0;
+		vrLen = 789;
+		vrLoc = 0;
+	};
+	4299FEAC12F968730097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 61";
+		rLen = 0;
+		rLoc = 1515;
+		rType = 0;
+		vrLen = 666;
+		vrLoc = 1333;
+	};
+	4299FEAD12F968730097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 81";
+		rLen = 0;
+		rLoc = 2597;
+		rType = 0;
+		vrLen = 1495;
+		vrLoc = 815;
+	};
+	4299FEAE12F968730097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 68";
+		rLen = 0;
+		rLoc = 1749;
+		rType = 0;
+		vrLen = 1485;
+		vrLoc = 815;
+	};
+	4299FEAF12F968730097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TaxRatesViewController.h */;
+		name = "TaxRatesViewController.h: 26";
+		rLen = 0;
+		rLoc = 789;
+		rType = 0;
+		vrLen = 789;
+		vrLoc = 0;
+	};
+	4299FEB012F9694C0097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 61";
+		rLen = 0;
+		rLoc = 1515;
+		rType = 0;
+		vrLen = 666;
+		vrLoc = 1333;
+	};
+	4299FEB112F9694C0097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 82";
+		rLen = 0;
+		rLoc = 2505;
+		rType = 0;
+		vrLen = 1298;
+		vrLoc = 1308;
+	};
+	4299FEB212F9694C0097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 68";
+		rLen = 0;
+		rLoc = 1749;
+		rType = 0;
+		vrLen = 1487;
+		vrLoc = 815;
+	};
+	4299FEB312F9694C0097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TaxRatesViewController.h */;
+		name = "TaxRatesViewController.h: 26";
+		rLen = 0;
+		rLoc = 789;
+		rType = 0;
+		vrLen = 789;
+		vrLoc = 0;
+	};
+	4299FEBA12F96A440097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 61";
+		rLen = 0;
+		rLoc = 1515;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 1333;
+	};
+	4299FEBB12F96A440097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 82";
+		rLen = 0;
+		rLoc = 2479;
+		rType = 0;
+		vrLen = 1306;
+		vrLoc = 1308;
+	};
+	4299FEBC12F96A440097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 68";
+		rLen = 0;
+		rLoc = 1749;
+		rType = 0;
+		vrLen = 1409;
+		vrLoc = 815;
+	};
+	4299FEBD12F96A440097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TaxRatesViewController.h */;
+		name = "TaxRatesViewController.h: 26";
+		rLen = 0;
+		rLoc = 789;
+		rType = 0;
+		vrLen = 789;
+		vrLoc = 0;
+	};
+	4299FEC512F96B5C0097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 61";
+		rLen = 0;
+		rLoc = 1515;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 1333;
+	};
+	4299FEC612F96B5C0097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 86";
+		rLen = 0;
+		rLoc = 3207;
+		rType = 0;
+		vrLen = 1338;
+		vrLoc = 1308;
+	};
+	4299FEC712F96B5C0097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 68";
+		rLen = 0;
+		rLoc = 1749;
+		rType = 0;
+		vrLen = 1409;
+		vrLoc = 815;
+	};
+	4299FEC812F96B5C0097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TaxRatesViewController.h */;
+		name = "TaxRatesViewController.h: 26";
+		rLen = 0;
+		rLoc = 789;
+		rType = 0;
+		vrLen = 789;
+		vrLoc = 0;
+	};
+	4299FECD12F96BD00097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 61";
+		rLen = 0;
+		rLoc = 1515;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 1333;
+	};
+	4299FECE12F96BD00097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 86";
+		rLen = 0;
+		rLoc = 2677;
+		rType = 0;
+		vrLen = 1369;
+		vrLoc = 1308;
+	};
+	4299FECF12F96BD00097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 68";
+		rLen = 0;
+		rLoc = 1749;
+		rType = 0;
+		vrLen = 1409;
+		vrLoc = 815;
+	};
+	4299FED012F96BD00097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TaxRatesViewController.h */;
+		name = "TaxRatesViewController.h: 26";
+		rLen = 0;
+		rLoc = 789;
+		rType = 0;
+		vrLen = 789;
+		vrLoc = 0;
+	};
+	4299FED112F96C440097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 61";
+		rLen = 0;
+		rLoc = 1515;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 1333;
+	};
+	4299FED212F96C440097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 88";
+		rLen = 0;
+		rLoc = 2778;
+		rType = 0;
+		vrLen = 1412;
+		vrLoc = 1308;
+	};
+	4299FED312F96C440097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 68";
+		rLen = 0;
+		rLoc = 1749;
+		rType = 0;
+		vrLen = 1409;
+		vrLoc = 815;
+	};
+	4299FED412F96C440097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TaxRatesViewController.h */;
+		name = "TaxRatesViewController.h: 26";
+		rLen = 0;
+		rLoc = 789;
+		rType = 0;
+		vrLen = 789;
+		vrLoc = 0;
+	};
+	4299FED712F96CA10097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 61";
+		rLen = 0;
+		rLoc = 1515;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 1333;
+	};
+	4299FED812F96CA20097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 92";
+		rLen = 0;
+		rLoc = 3004;
+		rType = 0;
+		vrLen = 1486;
+		vrLoc = 1308;
+	};
+	4299FED912F96CA20097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 68";
+		rLen = 0;
+		rLoc = 1749;
+		rType = 0;
+		vrLen = 1409;
+		vrLoc = 815;
+	};
+	4299FEDA12F96CA20097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TaxRatesViewController.h */;
+		name = "TaxRatesViewController.h: 26";
+		rLen = 0;
+		rLoc = 789;
+		rType = 0;
+		vrLen = 789;
+		vrLoc = 0;
+	};
+	4299FEDB12F96D040097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 61";
+		rLen = 0;
+		rLoc = 1515;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 1333;
+	};
+	4299FEDC12F96D040097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 92";
+		rLen = 0;
+		rLoc = 3060;
+		rType = 0;
+		vrLen = 1543;
+		vrLoc = 1308;
+	};
+	4299FEDD12F96D040097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 68";
+		rLen = 0;
+		rLoc = 1749;
+		rType = 0;
+		vrLen = 1409;
+		vrLoc = 815;
+	};
+	4299FEDE12F96D040097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TaxRatesViewController.h */;
+		name = "TaxRatesViewController.h: 26";
+		rLen = 0;
+		rLoc = 789;
+		rType = 0;
+		vrLen = 789;
+		vrLoc = 0;
+	};
+	4299FEE112F96E7F0097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 61";
+		rLen = 0;
+		rLoc = 1515;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 1333;
+	};
+	4299FEE212F96E7F0097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 93";
+		rLen = 0;
+		rLoc = 3207;
+		rType = 0;
+		vrLen = 1523;
+		vrLoc = 1308;
+	};
+	4299FEE312F96E7F0097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 68";
+		rLen = 0;
+		rLoc = 1749;
+		rType = 0;
+		vrLen = 1409;
+		vrLoc = 815;
+	};
+	4299FEE412F96E7F0097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TaxRatesViewController.h */;
+		name = "TaxRatesViewController.h: 26";
+		rLen = 0;
+		rLoc = 789;
+		rType = 0;
+		vrLen = 789;
+		vrLoc = 0;
+	};
+	4299FEE712F96FE20097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 61";
+		rLen = 0;
+		rLoc = 1515;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 1333;
+	};
+	4299FEE812F96FE20097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 108";
+		rLen = 0;
+		rLoc = 3547;
+		rType = 0;
+		vrLen = 1371;
+		vrLoc = 1772;
+	};
+	4299FEE912F96FE20097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 68";
+		rLen = 0;
+		rLoc = 1749;
+		rType = 0;
+		vrLen = 1409;
+		vrLoc = 815;
+	};
+	4299FEEA12F96FE20097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TaxRatesViewController.h */;
+		name = "TaxRatesViewController.h: 26";
+		rLen = 0;
+		rLoc = 789;
+		rType = 0;
+		vrLen = 789;
+		vrLoc = 0;
+	};
+	4299FEF312F970C30097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 61";
+		rLen = 0;
+		rLoc = 1515;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 1333;
+	};
+	4299FEF412F970C30097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 94";
+		rLen = 0;
+		rLoc = 3202;
+		rType = 0;
+		vrLen = 1004;
+		vrLoc = 2590;
+	};
+	4299FEF512F970C30097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 68";
+		rLen = 0;
+		rLoc = 1749;
+		rType = 0;
+		vrLen = 1409;
+		vrLoc = 815;
+	};
+	4299FEF612F970C30097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TaxRatesViewController.h */;
+		name = "TaxRatesViewController.h: 26";
+		rLen = 0;
+		rLoc = 789;
+		rType = 0;
+		vrLen = 789;
+		vrLoc = 0;
+	};
+	4299FEFD12F971C10097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 61";
+		rLen = 0;
+		rLoc = 1515;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 1333;
+	};
+	4299FEFE12F971C10097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 90";
+		rLen = 0;
+		rLoc = 2878;
+		rType = 0;
+		vrLen = 1640;
+		vrLoc = 1308;
+	};
+	4299FEFF12F971C10097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 68";
+		rLen = 0;
+		rLoc = 1749;
+		rType = 0;
+		vrLen = 1409;
+		vrLoc = 815;
+	};
+	4299FF0012F971C10097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TaxRatesViewController.h */;
+		name = "TaxRatesViewController.h: 26";
+		rLen = 0;
+		rLoc = 789;
+		rType = 0;
+		vrLen = 789;
+		vrLoc = 0;
+	};
+	4299FF0412F972650097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 61";
+		rLen = 0;
+		rLoc = 1515;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 1333;
+	};
+	4299FF0512F972650097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 83";
+		rLen = 0;
+		rLoc = 2592;
+		rType = 0;
+		vrLen = 1734;
+		vrLoc = 1308;
+	};
+	4299FF0612F972650097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 68";
+		rLen = 0;
+		rLoc = 1749;
+		rType = 0;
+		vrLen = 1409;
+		vrLoc = 815;
+	};
+	4299FF0712F972650097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TaxRatesViewController.h */;
+		name = "TaxRatesViewController.h: 26";
+		rLen = 0;
+		rLoc = 789;
+		rType = 0;
+		vrLen = 789;
+		vrLoc = 0;
+	};
+	4299FF0C12F9742B0097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 61";
+		rLen = 0;
+		rLoc = 1515;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 1333;
+	};
+	4299FF0D12F9742B0097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TaxRatesViewController.h */;
+		name = "TaxRatesViewController.h: 14";
+		rLen = 0;
+		rLoc = 346;
+		rType = 0;
+		vrLen = 452;
+		vrLoc = 0;
+	};
+	4299FF0E12F9742B0097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TaxRatesViewController.h */;
+		name = "TaxRatesViewController.h: 26";
+		rLen = 0;
+		rLoc = 789;
+		rType = 0;
+		vrLen = 789;
+		vrLoc = 0;
+	};
+	4299FF0F12F9742B0097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TaxRatesViewController.h */;
+		name = "TaxRatesViewController.h: 18";
+		rLen = 0;
+		rLoc = 489;
+		rType = 0;
+		vrLen = 799;
+		vrLoc = 0;
+	};
+	4299FF1012F9742B0097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 84";
+		rLen = 0;
+		rLoc = 2592;
+		rType = 0;
+		vrLen = 1822;
+		vrLoc = 1308;
+	};
+	4299FF1112F9742B0097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 68";
+		rLen = 0;
+		rLoc = 1749;
+		rType = 0;
+		vrLen = 1461;
+		vrLoc = 815;
+	};
+	4299FF1212F974690097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TaxRatesViewController.h */;
+		name = "TaxRatesViewController.h: 14";
+		rLen = 0;
+		rLoc = 346;
+		rType = 0;
+		vrLen = 452;
+		vrLoc = 0;
+	};
+	4299FF1312F974690097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TaxRatesViewController.h */;
+		name = "TaxRatesViewController.h: 18";
+		rLen = 0;
+		rLoc = 489;
+		rType = 0;
+		vrLen = 827;
+		vrLoc = 0;
+	};
+	4299FF1412F974690097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 84";
+		rLen = 0;
+		rLoc = 2592;
+		rType = 0;
+		vrLen = 1822;
+		vrLoc = 1308;
+	};
+	4299FF1512F974690097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 68";
+		rLen = 0;
+		rLoc = 1749;
+		rType = 0;
+		vrLen = 1461;
+		vrLoc = 815;
+	};
+	4299FF1D12F975370097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TaxRatesViewController.h */;
+		name = "TaxRatesViewController.h: 14";
+		rLen = 0;
+		rLoc = 346;
+		rType = 0;
+		vrLen = 452;
+		vrLoc = 0;
+	};
+	4299FF1E12F975370097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 68";
+		rLen = 0;
+		rLoc = 1749;
+		rType = 0;
+		vrLen = 1461;
+		vrLoc = 815;
+	};
+	4299FF1F12F975370097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 97";
+		rLen = 0;
+		rLoc = 3171;
+		rType = 0;
+		vrLen = 1393;
+		vrLoc = 2269;
+	};
+	4299FF2012F975370097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TaxRatesViewController.h */;
+		name = "TaxRatesViewController.h: 29";
+		rLen = 0;
+		rLoc = 839;
+		rType = 0;
+		vrLen = 877;
+		vrLoc = 0;
+	};
+	4299FF2112F975370097A11F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TaxRatesViewController.m */;
+		name = "TaxRatesViewController.m: 84";
+		rLen = 0;
+		rLoc = 2592;
+		rType = 0;
+		vrLen = 1864;
+		vrLoc = 1308;
+	};
+}
