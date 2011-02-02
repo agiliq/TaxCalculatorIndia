@@ -12,7 +12,6 @@
 		</object>
 		<object class="NSMutableArray" key="IBDocument.EditedObjectIDs">
 			<bool key="EncodedWithXMLCoder">YES</bool>
-			<integer value="6"/>
 		</object>
 		<object class="NSArray" key="IBDocument.PluginDependencies">
 			<bool key="EncodedWithXMLCoder">YES</bool>
@@ -38,7 +37,7 @@
 				<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
 			</object>
 			<object class="IBUIView" id="774585933">
-				<reference key="NSNextResponder"/>
+				<nil key="NSNextResponder"/>
 				<int key="NSvFlags">274</int>
 				<object class="NSMutableArray" key="NSSubviews">
 					<bool key="EncodedWithXMLCoder">YES</bool>
@@ -339,7 +338,6 @@
 					</object>
 				</object>
 				<string key="NSFrameSize">{320, 460}</string>
-				<reference key="NSSuperview"/>
 				<object class="NSColor" key="IBUIBackgroundColor">
 					<int key="NSColorSpace">3</int>
 					<bytes key="NSWhite">MC43NQA</bytes>
@@ -363,14 +361,6 @@
 				</object>
 				<object class="IBConnectionRecord">
 					<object class="IBCocoaTouchOutletConnection" key="connection">
-						<string key="label">housing_interest</string>
-						<reference key="source" ref="372490531"/>
-						<reference key="destination" ref="153877166"/>
-					</object>
-					<int key="connectionID">21</int>
-				</object>
-				<object class="IBConnectionRecord">
-					<object class="IBCocoaTouchOutletConnection" key="connection">
 						<string key="label">income</string>
 						<reference key="source" ref="372490531"/>
 						<reference key="destination" ref="30510557"/>
@@ -379,36 +369,11 @@
 				</object>
 				<object class="IBConnectionRecord">
 					<object class="IBCocoaTouchOutletConnection" key="connection">
-						<string key="label">insurance_premiums</string>
-						<reference key="source" ref="372490531"/>
-						<reference key="destination" ref="419504650"/>
-					</object>
-					<int key="connectionID">23</int>
-				</object>
-				<object class="IBConnectionRecord">
-					<object class="IBCocoaTouchOutletConnection" key="connection">
 						<string key="label">investment</string>
 						<reference key="source" ref="372490531"/>
 						<reference key="destination" ref="169109399"/>
 					</object>
 					<int key="connectionID">24</int>
-				</object>
-				<object class="IBConnectionRecord">
-					<object class="IBCocoaTouchEventConnection" key="connection">
-						<string key="label">calculate_tax</string>
-						<reference key="source" ref="853859682"/>
-						<reference key="destination" ref="372490531"/>
-						<int key="IBEventType">7</int>
-					</object>
-					<int key="connectionID">25</int>
-				</object>
-				<object class="IBConnectionRecord">
-					<object class="IBCocoaTouchOutletConnection" key="connection">
-						<string key="label">infra_investment</string>
-						<reference key="source" ref="372490531"/>
-						<reference key="destination" ref="1018211738"/>
-					</object>
-					<int key="connectionID">26</int>
 				</object>
 				<object class="IBConnectionRecord">
 					<object class="IBCocoaTouchOutletConnection" key="connection">
@@ -451,14 +416,6 @@
 					<int key="connectionID">31</int>
 				</object>
 				<object class="IBConnectionRecord">
-					<object class="IBCocoaTouchOutletConnection" key="connection">
-						<string key="label">final_tax</string>
-						<reference key="source" ref="372490531"/>
-						<reference key="destination" ref="777711841"/>
-					</object>
-					<int key="connectionID">32</int>
-				</object>
-				<object class="IBConnectionRecord">
 					<object class="IBCocoaTouchEventConnection" key="connection">
 						<string key="label">hideKeyboard</string>
 						<reference key="source" ref="348004139"/>
@@ -466,6 +423,47 @@
 						<int key="IBEventType">7</int>
 					</object>
 					<int key="connectionID">35</int>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchEventConnection" key="connection">
+						<string key="label">calculateTax</string>
+						<reference key="source" ref="853859682"/>
+						<reference key="destination" ref="372490531"/>
+						<int key="IBEventType">7</int>
+					</object>
+					<int key="connectionID">36</int>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchOutletConnection" key="connection">
+						<string key="label">infraInvestment</string>
+						<reference key="source" ref="372490531"/>
+						<reference key="destination" ref="1018211738"/>
+					</object>
+					<int key="connectionID">37</int>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchOutletConnection" key="connection">
+						<string key="label">insurancePremiums</string>
+						<reference key="source" ref="372490531"/>
+						<reference key="destination" ref="419504650"/>
+					</object>
+					<int key="connectionID">38</int>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchOutletConnection" key="connection">
+						<string key="label">housingInterest</string>
+						<reference key="source" ref="372490531"/>
+						<reference key="destination" ref="153877166"/>
+					</object>
+					<int key="connectionID">39</int>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchOutletConnection" key="connection">
+						<string key="label">finalTax</string>
+						<reference key="source" ref="372490531"/>
+						<reference key="destination" ref="777711841"/>
+					</object>
+					<int key="connectionID">40</int>
 				</object>
 			</object>
 			<object class="IBMutableOrderedSet" key="objectRecords">
@@ -691,7 +689,7 @@
 				</object>
 			</object>
 			<nil key="sourceID"/>
-			<int key="maxID">35</int>
+			<int key="maxID">40</int>
 		</object>
 		<object class="IBClassDescriber" key="IBDocument.Classes">
 			<object class="NSMutableArray" key="referencedPartialClassDescriptions">
@@ -703,7 +701,7 @@
 						<bool key="EncodedWithXMLCoder">YES</bool>
 						<object class="NSArray" key="dict.sortedKeys">
 							<bool key="EncodedWithXMLCoder">YES</bool>
-							<string>calculate_tax</string>
+							<string>calculateTax</string>
 							<string>hideKeyboard</string>
 						</object>
 						<object class="NSMutableArray" key="dict.values">
@@ -716,13 +714,13 @@
 						<bool key="EncodedWithXMLCoder">YES</bool>
 						<object class="NSArray" key="dict.sortedKeys">
 							<bool key="EncodedWithXMLCoder">YES</bool>
-							<string>calculate_tax</string>
+							<string>calculateTax</string>
 							<string>hideKeyboard</string>
 						</object>
 						<object class="NSMutableArray" key="dict.values">
 							<bool key="EncodedWithXMLCoder">YES</bool>
 							<object class="IBActionInfo">
-								<string key="name">calculate_tax</string>
+								<string key="name">calculateTax</string>
 								<string key="candidateClassName">id</string>
 							</object>
 							<object class="IBActionInfo">
@@ -735,11 +733,11 @@
 						<bool key="EncodedWithXMLCoder">YES</bool>
 						<object class="NSArray" key="dict.sortedKeys">
 							<bool key="EncodedWithXMLCoder">YES</bool>
-							<string>final_tax</string>
-							<string>housing_interest</string>
+							<string>finalTax</string>
+							<string>housingInterest</string>
 							<string>income</string>
-							<string>infra_investment</string>
-							<string>insurance_premiums</string>
+							<string>infraInvestment</string>
+							<string>insurancePremiums</string>
 							<string>investment</string>
 						</object>
 						<object class="NSMutableArray" key="dict.values">
@@ -756,21 +754,21 @@
 						<bool key="EncodedWithXMLCoder">YES</bool>
 						<object class="NSArray" key="dict.sortedKeys">
 							<bool key="EncodedWithXMLCoder">YES</bool>
-							<string>final_tax</string>
-							<string>housing_interest</string>
+							<string>finalTax</string>
+							<string>housingInterest</string>
 							<string>income</string>
-							<string>infra_investment</string>
-							<string>insurance_premiums</string>
+							<string>infraInvestment</string>
+							<string>insurancePremiums</string>
 							<string>investment</string>
 						</object>
 						<object class="NSMutableArray" key="dict.values">
 							<bool key="EncodedWithXMLCoder">YES</bool>
 							<object class="IBToOneOutletInfo">
-								<string key="name">final_tax</string>
+								<string key="name">finalTax</string>
 								<string key="candidateClassName">UILabel</string>
 							</object>
 							<object class="IBToOneOutletInfo">
-								<string key="name">housing_interest</string>
+								<string key="name">housingInterest</string>
 								<string key="candidateClassName">UITextField</string>
 							</object>
 							<object class="IBToOneOutletInfo">
@@ -778,11 +776,11 @@
 								<string key="candidateClassName">UITextField</string>
 							</object>
 							<object class="IBToOneOutletInfo">
-								<string key="name">infra_investment</string>
+								<string key="name">infraInvestment</string>
 								<string key="candidateClassName">UITextField</string>
 							</object>
 							<object class="IBToOneOutletInfo">
-								<string key="name">insurance_premiums</string>
+								<string key="name">insurancePremiums</string>
 								<string key="candidateClassName">UITextField</string>
 							</object>
 							<object class="IBToOneOutletInfo">

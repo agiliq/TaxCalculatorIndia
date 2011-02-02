@@ -58,45 +58,45 @@
 	// e.g. self.myOutlet = nil;
 }
 
-@synthesize income, housing_interest, investment, infra_investment, insurance_premiums, final_tax;
+@synthesize income, housingInterest, investment, infraInvestment, insurancePremiums, finalTax;
 
-int getTax(int taxable_income);
+int getTax(int taxableIncome);
 
-- (IBAction) calculate_tax{
-    NSString* income_full = income.text;
-    NSString* housing = housing_interest.text;
+- (IBAction) calculateTax{
+    NSString* incomeFull = income.text;
+    NSString* housing = housingInterest.text;
     NSString* inv = investment.text;    
-    NSString* infra_inv = infra_investment.text;    
-    NSString* premium = insurance_premiums.text; 
+    NSString* infraInv = infraInvestment.text;    
+    NSString* premium = insurancePremiums.text; 
     
     NSNumberFormatter * f = [[NSNumberFormatter alloc] init];
     [f setNumberStyle:NSNumberFormatterDecimalStyle];
-    NSNumber* income_num = [f numberFromString:income_full];
-    NSNumber* inv_num = [f numberFromString:inv];
-    NSNumber* infra_inv_num = [f numberFromString:infra_inv];
-    NSNumber* housing_num = [f numberFromString:housing];
-    NSNumber* premium_num = [f numberFromString:premium];
-    NSLog(@"Deductions are %@, %@, %@, %@", inv_num, infra_inv_num, housing_num, premium_num);    
+    NSNumber* incomeNum = [f numberFromString:incomeFull];
+    NSNumber* invNum = [f numberFromString:inv];
+    NSNumber* infraInvNum = [f numberFromString:infraInv];
+    NSNumber* housingNum = [f numberFromString:housing];
+    NSNumber* premiumNum = [f numberFromString:premium];
+    NSLog(@"Deductions are %@, %@, %@, %@", invNum, infraInvNum, housingNum, premiumNum);    
     [f release];
-    int income_i = [income_num intValue];
-    int inv_i = [inv_num intValue];
-    int infra_inv_i = [infra_inv_num intValue];
-    int housing_i = [housing_num intValue];
-    int premium_i = [premium_num intValue];
-    NSLog(@"Deductions are %d, %d, %d, %d", inv_i, infra_inv_i, housing_i, premium_i);
+    int incomeInt = [incomeNum intValue];
+    int invInt = [invNum intValue];
+    int infraInvInt = [infraInvNum intValue];
+    int housingInt = [housingNum intValue];
+    int premiumInt = [premiumNum intValue];
+    NSLog(@"Deductions are %d, %d, %d, %d", invInt, infraInvInt, housingInt, premiumInt);
     
     //Ok, now lets get the max allowed investments
-    inv_i = MAX(0, MIN(inv_i, 100000));
-    infra_inv_i = MAX(0, MIN(infra_inv_i, 20000));
-    housing_i = MAX(0, MIN(housing_i, 150000));
-    premium_i = MAX(0, MIN(premium_i, 35000));
-    NSLog(@"Deductions are %d, %d, %d, %d", inv_i, infra_inv_i, housing_i, premium_i);
+    invInt = MAX(0, MIN(invInt, 100000));
+    infraInvInt = MAX(0, MIN(infraInvInt, 20000));
+    housingInt = MAX(0, MIN(housingInt, 150000));
+    premiumInt = MAX(0, MIN(premiumInt, 35000));
+    NSLog(@"Deductions are %d, %d, %d, %d", invInt, infraInvInt, housingInt, premiumInt);
     
-    int total_deductions =  inv_i + infra_inv_i + housing_i + premium_i;
-    int taxable_income = MAX(0, income_i - total_deductions);
-    int tax = getTax(taxable_income);
+    int totalDeductions =  invInt + infraInvInt + housingInt + premiumInt;
+    int taxableIncome = MAX(0, incomeInt - totalDeductions);
+    int tax = getTax(taxableIncome);
     
-    final_tax.text = [[NSString alloc] initWithFormat: @"%d",tax];
+    finalTax.text = [[NSString alloc] initWithFormat: @"%d",tax];
     NSLog(@"Tax is: %d", tax);
     
     
@@ -107,31 +107,31 @@ int getTax(int taxable_income);
 
 - (IBAction) hideKeyboard{
     [income resignFirstResponder];    
-    [housing_interest resignFirstResponder];
+    [housingInterest resignFirstResponder];
     [investment resignFirstResponder];
-    [infra_investment resignFirstResponder];
-    [insurance_premiums resignFirstResponder];
+    [infraInvestment resignFirstResponder];
+    [insurancePremiums resignFirstResponder];
     
 }
 
 
-int getTax(int taxable_income){
-    int tax_on_this_slab;
-    if (taxable_income < 160000) {
+int getTax(int taxableIncome){
+    int taxOnThisSlab;
+    if (taxableIncome < 160000) {
         return 0;
     }
-    else if (taxable_income < 500000){
-        tax_on_this_slab = 0.1 * (taxable_income - 160000);
-        return tax_on_this_slab;
+    else if (taxableIncome < 500000){
+        taxOnThisSlab = 0.1 * (taxableIncome - 160000);
+        return taxOnThisSlab;
     }
-    else if (taxable_income < 800000){
-        tax_on_this_slab = 0.2 * (taxable_income - 500000);
-        return tax_on_this_slab + 34000;
+    else if (taxableIncome < 800000){
+        taxOnThisSlab = 0.2 * (taxableIncome - 500000);
+        return taxOnThisSlab + 34000;
     
     }
     else {
-        tax_on_this_slab = 0.3 * (taxable_income - 800000);
-        return tax_on_this_slab + 94000;
+        taxOnThisSlab = 0.3 * (taxableIncome - 800000);
+        return taxOnThisSlab + 94000;
     }
     
 }
@@ -148,3 +148,4 @@ int getTax(int taxable_income){
 }
 
 @end
+
