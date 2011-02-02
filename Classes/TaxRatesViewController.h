@@ -29,6 +29,7 @@
 @property (nonatomic, retain) UILabel *final_tax;
 
 - (IBAction) calculate_tax;
+- (IBAction) hideKeyboard;
 
 @end
 

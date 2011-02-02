@@ -60,6 +60,7 @@
 
 @synthesize income, housing_interest, investment, infra_investment, insurance_premiums, final_tax;
 
+
 - (IBAction) calculate_tax{
     NSString* income_full = income.text;
     NSString* housing = housing_interest.text;
@@ -101,6 +102,17 @@
     
     [income resignFirstResponder];
 }
+
+
+- (IBAction) hideKeyboard{
+    [income resignFirstResponder];    
+    [housing_interest resignFirstResponder];
+    [investment resignFirstResponder];
+    [infra_investment resignFirstResponder];
+    [insurance_premiums resignFirstResponder];
+    
+}
+
 
 int getTax(int taxable_income){
     int tax_on_this_slab;
